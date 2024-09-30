@@ -1,4 +1,4 @@
-package dev.mraksimus.types;
+package dev.mraksimus.first.types;
 
 //for second task
 public enum TrainingIntensity {

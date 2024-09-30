@@ -1,8 +1,8 @@
-package dev.mraksimus;
+package dev.mraksimus.first;
 
-import dev.mraksimus.types.TrainingIntensity;
+import dev.mraksimus.first.types.TrainingIntensity;
 
-public class Main {
+public class FirstTasks {
 
     public static void main(String[] args) {
 
